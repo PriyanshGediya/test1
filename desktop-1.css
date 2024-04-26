@@ -1,0 +1,293 @@
+.card-content {
+  position: absolute;
+  top: 493px;
+  left: 0;
+  background-color: var(--color-darkseagreen);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25),
+    0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25),
+    0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1440px;
+  height: 531px;
+}
+.crysis-1440p-yes,
+.fallout-4-1440p,
+.forza-horizon-5,
+.gta-iv-1440p,
+.minecraft-wshaders-1440p {
+  margin: 0;
+}
+.minecraft-wshaders-1440p-container {
+  position: absolute;
+  top: 757px;
+  left: 1017px;
+  font-size: var(--font-size-6xl);
+  font-weight: 300;
+  display: inline-block;
+  width: 423px;
+  height: 604px;
+}
+.xfx-r9-390 {
+  position: absolute;
+  top: 670px;
+  left: 32px;
+  display: inline-block;
+  width: 580px;
+  height: 126px;
+}
+.msrp-499 {
+  font-size: var(--font-size-11xl);
+}
+.au300-msrp-499-container {
+  position: absolute;
+  top: 667px;
+  left: 1017px;
+  display: inline-block;
+  width: 412px;
+  height: 66px;
+}
+.image-1-icon,
+.image-2-icon,
+.image-3-icon {
+  position: absolute;
+  top: 56px;
+  left: 0;
+  width: 609.2px;
+  height: 402px;
+  object-fit: cover;
+}
+.image-1-icon,
+.image-2-icon {
+  left: 1113px;
+  width: 578px;
+}
+.image-1-icon {
+  height: 82.58%;
+  width: 46.78%;
+  top: 0;
+  right: 28.03%;
+  bottom: 17.42%;
+  left: 25.19%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.image-4-icon,
+.image-5-icon {
+  position: absolute;
+  top: 485px;
+  left: 147px;
+  width: 105px;
+  height: 98.7px;
+  object-fit: contain;
+  cursor: pointer;
+}
+.image-4-icon {
+  left: 1439px;
+}
+.image-3-parent {
+  position: absolute;
+  top: 59px;
+  left: -125px;
+  width: 1691px;
+  height: 583.7px;
+}
+.blank-line,
+.gb-gddr5-512-bit {
+  margin: 0;
+}
+.dmark-time-spy {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.blank-line1,
+.reccomended-for- {
+  margin: 0;
+}
+.gb-gddr5-512-bit-container {
+  position: absolute;
+  top: 766px;
+  left: 32px;
+  font-size: var(--font-size-6xl);
+  font-weight: 300;
+  font-family: var(--font-bahnschrift);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 1240px;
+  height: 97px;
+}
+.card-content1,
+.tochgras-1-icon1 {
+  position: absolute;
+  top: 0;
+  height: 56px;
+}
+.card-content1 {
+  left: 0;
+  background-color: var(--color-darkseagreen);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1440px;
+}
+.tochgras-1-icon1 {
+  left: 101px;
+  width: 62.2px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.desktop-1-child {
+  position: absolute;
+  top: 5px;
+  left: 1376px;
+  width: 47px;
+  height: 47px;
+}
+.gpumart1,
+.profile {
+  position: absolute;
+  display: inline-block;
+}
+.profile {
+  top: 30px;
+  left: 1323px;
+  font-size: var(--font-size-lg);
+  font-weight: 300;
+  width: 54px;
+  height: 29px;
+  min-width: 54px;
+}
+.gpumart1 {
+  margin: 0;
+  top: 0;
+  left: 171px;
+  font-size: var(--font-size-29xl);
+  font-weight: 400;
+  font-family: inherit;
+  width: 276px;
+  height: 56px;
+}
+.frame-item {
+  top: 0;
+  left: 0;
+  background-color: var(--color-palegoldenrod);
+  width: 100%;
+  height: 100%;
+  display: none;
+}
+.desktop-1-inner,
+.frame-inner,
+.frame-item,
+.group-div {
+  position: absolute;
+  border-radius: var(--br-10xs);
+}
+.desktop-1-inner {
+  top: 930px;
+  left: 1217px;
+  background-color: var(--color-palegoldenrod);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 193px;
+  height: 63px;
+}
+.frame-inner,
+.group-div {
+  background-color: var(--color-lightcoral);
+}
+.frame-inner {
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: none;
+}
+.group-div {
+  top: 935px;
+  left: 34px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 216px;
+  height: 58px;
+}
+.next-card {
+  margin: 0;
+  top: 937px;
+  left: 1223px;
+  font-size: var(--font-size-21xl);
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  width: 189px;
+  height: 48px;
+}
+.epick-1-icon1,
+.make-offer,
+.next-card {
+  position: absolute;
+  cursor: pointer;
+}
+.make-offer {
+  margin: 0;
+  top: 942px;
+  left: 42px;
+  font-size: var(--font-size-21xl);
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  width: 201px;
+  height: 45px;
+}
+.epick-1-icon1 {
+  top: 5px;
+  left: 1384px;
+  border-radius: var(--br-999999986991085xl);
+  width: 47px;
+  height: 47px;
+  object-fit: contain;
+}
+.desktop-1 {
+  width: 100%;
+  height: 1024px;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  font-size: var(--font-size-41xl);
+  color: var(--color-black);
+  font-family: var(--font-bahnschrift);
+}
+@media screen and (max-width: 767px) {
+  .xfx-r9-390 {
+    font-size: var(--font-size-29xl);
+  }
+  .au300-msrp-499-container {
+    font-size: var(--font-size-5xl);
+  }
+  .gpumart1 {
+    font-size: var(--font-size-19xl);
+  }
+  .make-offer,
+  .next-card {
+    font-size: var(--font-size-13xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .minecraft-wshaders-1440p-container {
+    font-size: var(--font-size-xl);
+  }
+  .xfx-r9-390 {
+    font-size: var(--font-size-17xl);
+  }
+  .au300-msrp-499-container {
+    font-size: var(--font-size-lg);
+  }
+  .gb-gddr5-512-bit-container {
+    font-size: var(--font-size-xl);
+  }
+  .gpumart1 {
+    font-size: var(--font-size-10xl);
+  }
+  .make-offer,
+  .next-card {
+    font-size: var(--font-size-5xl);
+  }
+}

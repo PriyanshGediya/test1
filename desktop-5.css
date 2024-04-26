@@ -1,0 +1,340 @@
+.profile4 {
+  height: 29px;
+  position: absolute;
+  margin: 0 !important;
+  right: 56px;
+  bottom: -3px;
+  font-weight: 300;
+  display: inline-block;
+  min-width: 61px;
+  z-index: 1;
+}
+.frame-child11 {
+  align-self: stretch;
+  width: 1440px;
+  position: relative;
+  background-color: var(--color-darkseagreen);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  display: none;
+  max-width: 100%;
+}
+.gpumart6,
+.tochgras-1-icon6 {
+  position: relative;
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  z-index: 1;
+}
+.tochgras-1-icon6 {
+  align-self: stretch;
+  width: 62.2px;
+  max-height: 100%;
+  object-fit: cover;
+  min-height: 56px;
+  cursor: pointer;
+}
+.gpumart6 {
+  margin: 0;
+  flex: 1;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+}
+.store-info {
+  width: 346px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs-8);
+  max-width: 100%;
+}
+.epick-1-icon5 {
+  width: 47px;
+  height: 47px;
+  position: relative;
+  border-radius: var(--br-999999986991085xl);
+  object-fit: cover;
+  z-index: 2;
+}
+.image-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-9xs);
+}
+.frame-div,
+.profile-parent {
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+}
+.frame-div {
+  flex: 1;
+  background-color: var(--color-darkseagreen);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 0 var(--padding-4xs) 0 var(--padding-82xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  font-size: var(--font-size-29xl);
+}
+.profile-parent {
+  align-self: stretch;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  font-family: var(--font-bahnschrift);
+}
+.back1 {
+  margin: 0;
+  height: 44px;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  cursor: pointer;
+}
+.back-wrapper {
+  width: 247px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-7xs);
+  box-sizing: border-box;
+}
+.profile5 {
+  font-size: var(--font-size-66xl);
+  font-family: var(--font-bahnschrift);
+  color: var(--color-black);
+}
+.edit {
+  font-weight: 300;
+}
+.profile-edit {
+  margin: 0;
+}
+.blank-line9 {
+  font-weight: 300;
+}
+.blank-line8 {
+  margin: 0;
+}
+.name-xxxxxxxx1 {
+  font-weight: 300;
+}
+.name-xxxxxxxx {
+  margin: 0;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+}
+.blank-line11 {
+  font-weight: 300;
+}
+.blank-line10 {
+  margin: 0;
+}
+.wants1 {
+  font-weight: 300;
+}
+.wants {
+  margin: 0;
+  font-size: var(--font-size-13xl);
+}
+.blank-line13 {
+  font-weight: 300;
+}
+.blank-line12 {
+  margin: 0;
+}
+.driver-support-until-20211 {
+  font-weight: 300;
+}
+.driver-support-until-2021 {
+  margin: 0;
+}
+.gb-vram1 {
+  font-weight: 300;
+}
+.gb-vram {
+  margin: 0;
+}
+.p-lowmedium-gaming1 {
+  font-weight: 300;
+}
+.p-lowmedium-gaming {
+  margin: 0;
+}
+.blank-line15 {
+  font-weight: 300;
+}
+.blank-line14 {
+  margin: 0;
+}
+.performance-targets1 {
+  font-weight: 300;
+}
+.performance-targets {
+  margin: 0;
+}
+.blank-line17 {
+  font-weight: 300;
+}
+.blank-line16 {
+  margin: 0;
+}
+.minecraft-wshaders-1440p-171 {
+  font-weight: 300;
+}
+.minecraft-wshaders-1440p-17 {
+  margin: 0;
+}
+.forza-horizon-5-1440p-med-801 {
+  font-weight: 300;
+}
+.forza-horizon-5-1440p-med-80 {
+  margin: 0;
+}
+.fallout-4-1440p-high-60fps1 {
+  font-weight: 300;
+}
+.fallout-4-1440p-high-60fps {
+  margin: 0;
+}
+.gta-iv-1440p-very-high-100f1 {
+  font-weight: 300;
+}
+.gta-iv-1440p-very-high-100f {
+  margin: 0;
+}
+.crysis-1440p-extreme-60fps1 {
+  font-weight: 300;
+}
+.crysis-1440p-extreme-60fps {
+  margin: 0;
+}
+.blank-line19 {
+  font-weight: 300;
+}
+.blank-line18 {
+  margin: 0;
+}
+.blank-line21 {
+  font-weight: 300;
+}
+.blank-line20 {
+  margin: 0;
+}
+.budget-max-au5001 {
+  font-weight: 300;
+}
+.budget-max-au500 {
+  margin: 0;
+}
+.profile-edit-name-container {
+  height: 580px;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+}
+.epick-3-icon1,
+.sell-card {
+  position: absolute;
+  margin: 0 !important;
+  z-index: 1;
+}
+.sell-card {
+  right: -43px;
+  bottom: 98px;
+  font-size: var(--font-size-41xl);
+  font-weight: 400;
+  font-family: inherit;
+  color: var(--color-black);
+}
+.epick-3-icon1 {
+  height: 376px;
+  width: 376px;
+  top: -17px;
+  right: -104px;
+  border-radius: var(--br-999999986991085xl);
+  object-fit: contain;
+}
+.profile-options {
+  align-self: stretch;
+  flex-direction: row;
+  position: relative;
+  max-width: 100%;
+  font-size: var(--font-size-xl);
+  color: var(--color-deepskyblue);
+}
+.desktop-5,
+.navigation3,
+.profile-options,
+.user-actions1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.user-actions1 {
+  flex: 1;
+  flex-direction: column;
+  max-width: 100%;
+}
+.desktop-5,
+.navigation3 {
+  box-sizing: border-box;
+}
+.navigation3 {
+  width: 1313px;
+  flex-direction: row;
+  padding: 0 var(--padding-14xl);
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-black);
+  font-family: var(--font-bahnschrift);
+}
+.desktop-5 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  flex-direction: column;
+  padding: 0 0 335px;
+  gap: var(--gap-4xs);
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 750px) {
+  .frame-div {
+    padding-left: var(--padding-31xl);
+    box-sizing: border-box;
+  }
+  .sell-card {
+    font-size: var(--font-size-29xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .frame-div {
+    padding-left: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .back1 {
+    font-size: var(--font-size-xl);
+  }
+  .profile-edit-name-container {
+    font-size: var(--font-size-base);
+  }
+  .sell-card {
+    font-size: var(--font-size-17xl);
+  }
+}

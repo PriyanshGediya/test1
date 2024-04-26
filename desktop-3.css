@@ -1,0 +1,295 @@
+.desktop-3-child,
+.product-details3 {
+  position: absolute;
+  left: 0;
+  background-color: var(--color-darkseagreen);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25),
+    0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25),
+    0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1440px;
+}
+.desktop-3-child {
+  top: 606px;
+  height: 418px;
+  display: none;
+}
+.product-details3 {
+  top: 505px;
+  height: 519px;
+}
+.crysis-1440p-yes2,
+.fallout-4-1440p2,
+.forza-horizon-52,
+.gta-iv-1440p2,
+.minecraft-wshaders-1440p2 {
+  margin: 0;
+}
+.minecraft-wshaders-1440p-container2 {
+  position: absolute;
+  top: 726px;
+  left: 1008px;
+  font-size: var(--font-size-6xl);
+  font-weight: 300;
+  display: inline-block;
+  width: 423px;
+  height: 604px;
+}
+.frame-child7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-lightcoral);
+  width: 100%;
+  height: 100%;
+  display: none;
+}
+.desktop-3-inner,
+.make-offer2 {
+  position: absolute;
+  cursor: pointer;
+}
+.desktop-3-inner {
+  top: 935px;
+  left: 34px;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-lightcoral);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 216px;
+  height: 58px;
+}
+.make-offer2 {
+  margin: 0;
+  top: 942px;
+  left: 45px;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  width: 205px;
+  height: 45px;
+}
+.desktop-3-inner1,
+.frame-child8 {
+  position: absolute;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-palegoldenrod);
+}
+.frame-child8 {
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: none;
+}
+.desktop-3-inner1 {
+  top: 930px;
+  left: 1217px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 193px;
+  height: 63px;
+}
+.next-card2 {
+  margin: 0;
+  position: absolute;
+  top: 937px;
+  left: 1225px;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  width: 189px;
+  height: 48px;
+  cursor: pointer;
+}
+.msrp-4992 {
+  font-size: var(--font-size-11xl);
+}
+.au300-msrp-499-container2 {
+  position: absolute;
+  top: 636px;
+  left: 1008px;
+  display: inline-block;
+  width: 412px;
+  height: 66px;
+  font-size: var(--font-size-41xl);
+}
+.blank-line4,
+.gb-gddr5-512-bit2 {
+  margin: 0;
+}
+.dmark-time-spy2 {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.blank-line5,
+.reccomended-for-2 {
+  margin: 0;
+}
+.gb-gddr5-512-bit-container2,
+.xfx-r9-3902 {
+  position: absolute;
+  left: 23px;
+  display: inline-block;
+}
+.gb-gddr5-512-bit-container2 {
+  top: 735px;
+  font-size: var(--font-size-6xl);
+  font-weight: 300;
+  font-family: var(--font-bahnschrift);
+  color: var(--color-black);
+  text-align: left;
+  width: 1240px;
+  height: 97px;
+}
+.xfx-r9-3902 {
+  top: 639px;
+  font-size: var(--font-size-41xl);
+  width: 580px;
+  height: 126px;
+}
+.image-3-icon1,
+.image-5-icon3,
+.image-9-icon1 {
+  position: absolute;
+  top: 51px;
+  left: 0;
+  width: 578px;
+  height: 402px;
+  object-fit: cover;
+}
+.image-3-icon1,
+.image-9-icon1 {
+  left: 1113px;
+}
+.image-9-icon1 {
+  height: 82.82%;
+  width: 46.78%;
+  top: 0;
+  right: 28.62%;
+  bottom: 17.18%;
+  left: 24.6%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.image-10-icon,
+.image-8-icon1 {
+  position: absolute;
+  top: 478px;
+  left: 1405px;
+  width: 105px;
+  height: 104px;
+  object-fit: contain;
+  cursor: pointer;
+}
+.image-10-icon {
+  left: 113px;
+}
+.image-5-parent {
+  position: absolute;
+  top: 52px;
+  left: -82px;
+  width: 1691px;
+  height: 582px;
+}
+.product-details4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkseagreen);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1440px;
+  height: 56px;
+}
+.profile2 {
+  position: absolute;
+  top: 30px;
+  left: 1323px;
+  font-size: var(--font-size-lg);
+  font-weight: 300;
+  display: inline-block;
+  width: 54px;
+  height: 29px;
+  min-width: 54px;
+}
+.epick-1-icon3 {
+  position: absolute;
+  top: 5px;
+  left: 1384px;
+  border-radius: var(--br-999999986991085xl);
+  width: 47px;
+  height: 47px;
+  object-fit: contain;
+  cursor: pointer;
+}
+.gpumart4,
+.tochgras-1-icon4 {
+  position: absolute;
+  top: 0;
+  height: 56px;
+}
+.tochgras-1-icon4 {
+  left: 101px;
+  width: 62.2px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.gpumart4 {
+  margin: 0;
+  left: 171px;
+  font-size: var(--font-size-29xl);
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  width: 276px;
+}
+.desktop-3 {
+  width: 100%;
+  height: 1024px;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-bahnschrift);
+}
+@media screen and (max-width: 767px) {
+  .make-offer2,
+  .next-card2 {
+    font-size: var(--font-size-13xl);
+  }
+  .au300-msrp-499-container2 {
+    font-size: var(--font-size-5xl);
+  }
+  .xfx-r9-3902 {
+    font-size: var(--font-size-29xl);
+  }
+  .gpumart4 {
+    font-size: var(--font-size-19xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .minecraft-wshaders-1440p-container2 {
+    font-size: var(--font-size-xl);
+  }
+  .make-offer2,
+  .next-card2 {
+    font-size: var(--font-size-5xl);
+  }
+  .au300-msrp-499-container2 {
+    font-size: var(--font-size-lg);
+  }
+  .gb-gddr5-512-bit-container2 {
+    font-size: var(--font-size-xl);
+  }
+  .xfx-r9-3902 {
+    font-size: var(--font-size-17xl);
+  }
+  .gpumart4 {
+    font-size: var(--font-size-10xl);
+  }
+}
